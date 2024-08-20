@@ -278,3 +278,18 @@ Control Bias: By carefully designing prompts, users can mitigate biases and ensu
 Facilitate Communication: It bridges the gap between human language and AI models, enabling users to interact with them effectively.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt:
+
+"Tell me about technology."
+
+Improved Prompt:
+
+"Explain how artificial intelligence is transforming healthcare, including specific examples of AI applications and their impact on patient outcomes."
+
+Why the Improved Prompt is More Effective:
+
+Specificity: The improved prompt narrows down the broad topic of technology to a specific area—artificial intelligence in healthcare. This helps in providing a focused and relevant response.
+
+Clarity: It clearly states what aspects of AI in healthcare should be addressed: specific applications and their impact on patient outcomes. This removes ambiguity and guides the response in a precise direction.
+
+Conciseness: The prompt is concise yet comprehensive, ensuring that the response will be both detailed and to the point, avoiding unnecessary or off-topic information
